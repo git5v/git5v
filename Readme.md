@@ -13,10 +13,10 @@
 ## :shield:  Badges 
 <div>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/B855DDFAADB6A8CB?sharingId=49F6BEB17CF5DC78 ">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o1N3UzbG1kNzk4Y25sb3owYzhueGtncDNueTgwbDN3Y2pta3VmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CBFOxlDsuAaozaE1D5/giphy.webp" width="150 px" height = "150px" >
+        <img src="https://miro.medium.com/v2/resize:fit:600/1*xaBJMux-ZpeRnyH3RDQXYA.png" width="150 px" height = "150px" >
      </a>   
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/FBBF1C4C2C682649?sharingId=49F6BEB17CF5DC78">
-        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/AZAI2.png" width="150 px" height = "150px" > 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJudK6BKrrwHGfcfAoWpYjuBNLjXHUZ98ug&s" width="150 px" height = "150px" > 
      </a>
   </div> 
 
