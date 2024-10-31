@@ -20,7 +20,7 @@
      </a>
   </div> 
 
-## :bar_chart: Stats 
+## :line_chart: Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en" alt="git5v" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git5v&" alt="git5v" /></p>
