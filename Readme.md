@@ -13,7 +13,7 @@
 ## :shield:  Badges 
 <div>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/B855DDFAADB6A8CB?sharingId=49F6BEB17CF5DC78 ">
-        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
+        <img src="https://giphy.com/gifs/MicrosoftCloud-microsoft-badge-certified-CBFOxlDsuAaozaE1D5" width="150 px" height = "150px" >
      </a>   
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/FBBF1C4C2C682649?sharingId=49F6BEB17CF5DC78">
         <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/AZAI2.png" width="150 px" height = "150px" > 
