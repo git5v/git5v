@@ -25,7 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git5v&theme=dark" alt="git5v" /></p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=git5v&theme=onedark)](https://github.com/git5v/github-profile-trophy)
+
+
 
 
   
