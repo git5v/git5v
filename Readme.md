@@ -13,7 +13,7 @@
 ## :shield:  Badges 
 <div>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/B855DDFAADB6A8CB?sharingId=49F6BEB17CF5DC78 ">
-        <img src="https://miro.medium.com/v2/resize:fit:600/1*xaBJMux-ZpeRnyH3RDQXYA.png" width="150 px" height = "150px" >
+        <img src="https://azurelib.com/ezoimgfmt/i0.wp.com/azurelib.com/wp-content/uploads/2021/02/image-73.png?w=1028&ssl=1&ezimgfmt=ngcb2/notWebP" width="150 px" height = "150px" >
      </a>   
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/FBBF1C4C2C682649?sharingId=49F6BEB17CF5DC78">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJudK6BKrrwHGfcfAoWpYjuBNLjXHUZ98ug&s" width="150 px" height = "150px" > 
