@@ -6,7 +6,7 @@
     <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Connect with me :</h2>
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git5v&hide=TeX&layout=compact)
 
 [![Linkdein](https://img.shields.io/badge/Vedant_Mukhedkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mukhedkar-4864881b0/)
 
