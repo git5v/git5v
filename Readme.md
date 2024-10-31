@@ -16,7 +16,7 @@
         <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE5HB0kQvHws-u1HPOfGYZF14yjNiOske0hjbtBvoSwdsHZLx2" width="150 px" height = "150px" >
      </a>   
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/FBBF1C4C2C682649?sharingId=49F6BEB17CF5DC78">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJudK6BKrrwHGfcfAoWpYjuBNLjXHUZ98ug&s" width="150 px" height = "150px" > 
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxQB0IbUmzxHLQxo47Aa05QcRoqfVzpEx3GRDmNWnASX53cg0U" width="150 px" height = "150px" > 
      </a>
   </div> 
 
