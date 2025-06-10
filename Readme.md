@@ -17,6 +17,7 @@
      </a>   
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedantMukhedkar-2865/FBBF1C4C2C682649?sharingId=49F6BEB17CF5DC78">
         <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxQB0IbUmzxHLQxo47Aa05QcRoqfVzpEx3GRDmNWnASX53cg0U" width="150 px" height = "150px" >
+        <a href="https://catalog-education.oracle.com/apex/f?p=1010:2:105211153921593::::P2_AUTHCODE,P2_AUTH_KEY,P2_ARG_INVALID_CNT:US232351Lk36v,KzAdW232279RPpw7026pPgM,0#"</a>
         <img src="OCI25AICFA.jpeg" width="150 px" height = "150px" >
      </a>
   </div> 
