@@ -9,7 +9,7 @@
 
 
 [![Linkdein](https://img.shields.io/badge/Vedant_Mukhedkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mukhedkar-4864881b0/)
-[![Linkdein](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/vedant-mukhedkar-4864881b0/)
+[![Linkdein](https://www.svgrepo.com/svg/353999/linkedin)](https://www.linkedin.com/in/vedant-mukhedkar-4864881b0/)
 
 
 ## :shield:  Badges 
