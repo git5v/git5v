@@ -24,9 +24,11 @@
 
 ## :bar_chart: Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en&theme=dark" alt="git5v" /></p>
-<a href="https://github.com/git5v">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en&theme=dark" alt="git5v" />
-</a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en&theme=dark" alt="git5v" />
+  </a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git5v&theme=dark" alt="git5v" /></p> 
