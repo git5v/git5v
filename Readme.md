@@ -23,12 +23,11 @@
   </div> 
 
 ## :bar_chart: Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en&theme=dark" alt="git5v" /></p>
-<p align="center">
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git5v&show_icons=true&locale=en&theme=dark" alt="git5v" /></p>
+<p align="center"> -->
   <a href="https://github.com/git5v">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=git5v&show_icons=true&theme=dark" alt="git5v GitHub stats" />
   </a>
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git5v&theme=dark" alt="git5v" /></p> 
 
